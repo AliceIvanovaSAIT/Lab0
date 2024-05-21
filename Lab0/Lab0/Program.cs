@@ -44,6 +44,9 @@ namespace Lab0
                     fileNumbers.Add(Convert.ToString(number));
                 }
             }
+
+            File.WriteAllLines(filepath, fileNumbers);
+
             
             foreach (double number in numbers)
             {
