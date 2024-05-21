@@ -1,0 +1,7 @@
+C:\Users\ivano\SAIT\semester 2\CPRG-211-E (oop)\Lab0\Lab0\bin\Debug\Lab0.exe.config
+C:\Users\ivano\SAIT\semester 2\CPRG-211-E (oop)\Lab0\Lab0\bin\Debug\Lab0.exe
+C:\Users\ivano\SAIT\semester 2\CPRG-211-E (oop)\Lab0\Lab0\bin\Debug\Lab0.pdb
+C:\Users\ivano\SAIT\semester 2\CPRG-211-E (oop)\Lab0\Lab0\obj\Debug\Lab0.csproj.AssemblyReference.cache
+C:\Users\ivano\SAIT\semester 2\CPRG-211-E (oop)\Lab0\Lab0\obj\Debug\Lab0.csproj.CoreCompileInputs.cache
+C:\Users\ivano\SAIT\semester 2\CPRG-211-E (oop)\Lab0\Lab0\obj\Debug\Lab0.exe
+C:\Users\ivano\SAIT\semester 2\CPRG-211-E (oop)\Lab0\Lab0\obj\Debug\Lab0.pdb
